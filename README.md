@@ -1,6 +1,6 @@
-# notes
+## Notes
 
-A simple notes and task management app. Super simple, Super minimal, Super Userfriendly
+A simple note making app. Super simple, Super minimal, Super Userfriendly
 
 ## Getting Started
 
